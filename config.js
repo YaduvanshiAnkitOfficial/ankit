@@ -42,38 +42,6 @@ window.INVITATION = {
   "eventsTitle": "Wedding Events",
   "events": [
     {
-      "title": "Haldi",
-      "date": "19 NOVEMBER 2026",
-      "time": "THURSDAY • 4:00 PM",
-      "image": "media/event-haldi.webp",
-      "venue": "Our Residence — Ghaziabad",
-      "address": "",
-      "url": "https://maps.app.goo.gl/xJZbLuAynqEAbzeYA",
-      "note": "",
-      "featured": false
-    },
-    {
-      "title": "Mehandi",
-      "date": "20 NOVEMBER 2026",
-      "time": "FRIDAY • 4:00 PM",
-      "image": "media/event-mehndi.webp",
-      "venue": "Our Residence — Ghaziabad",
-      "address": "",
-      "url": "https://maps.app.goo.gl/xJZbLuAynqEAbzeYA",
-      "note": "",
-      "featured": false
-    },
-    {
-      "title": "Sangeet Ceremony",
-      "date": "20 NOVEMBER 2026",
-      "time": "FRIDAY • 6:00 PM",
-      "image": "media/event-sangeet.webp",
-      "venue": "Our Residence — Ghaziabad",
-      "address": "",
-      "url": "https://maps.app.goo.gl/xJZbLuAynqEAbzeYA",
-      "note": ""
-    },
-    {
       "title": "Wedding",
       "date": "21 November 2026, Saturday",
       "time": "Arrival of Baraat : 7:00PM\nDinner : 8:00PM",
@@ -88,23 +56,8 @@ window.INVITATION = {
   "familyTitle": "With Blessings From",
   "family": [
     {
-      "label": "Grand Parents",
-      "names": "Late Smt. Kesari Devi & Late Sh. Brahmdev Yadav",
-      "highlight": false
-    },
-    {
-      "label": "Chacha Ji",
-      "names": "Anmol Yadav, Dr. Nagendra Yadav, ",
-      "highlight": false
-    },
-    {
-      "label": "Brothers",
-      "names": "Ram Pratap Yadav, Shiv Pratap Yadav, Anshuraj Yadav, Ashutosh Yadav, Amit Yadav, Manish Kumar Yadav",
-      "highlight": false
-    },
-    {
-      "label": "Sister",
-      "names": "Anjali Yadav",
+      "label": "R.S.V.P.",
+      "names": "Dadke & Nanke",
       "highlight": false
     },
     {
